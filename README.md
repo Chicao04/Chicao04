@@ -71,7 +71,7 @@ A web-based system built with HTML, CSS, and JavaScript to manage student regist
 Feel free to contact me through the following channels:
 
 - 📧 **Email:** caocute502@gmail.com
-- **Zalo** 0942745638
+- 📧 **Zalo:** 0942745638
 
 ---
 
@@ -82,8 +82,4 @@ If you have any exciting ideas or opportunities to work together, don't hesitate
 
 ## 📸 Some of My Work
 
-![My Android App Screenshot](https://via.placeholder.com/400x300?text=Android+App+Screenshot)
-![Web App Screenshot](https://via.placeholder.com/400x300?text=Web+App+Screenshot)
-
----
 
